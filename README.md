@@ -1,5 +1,5 @@
 # crestron-splus-contextcompile
-Cmd file that enables compiling SIMPL+ USP files from Windows Explorer
+Cmd file that enables compiling SIMPL+ USP/CSP files from Windows Explorer
 
 This is done by editing the Windows registry. Don't try this at home, I'm a professional and these
 files will do it for you.
